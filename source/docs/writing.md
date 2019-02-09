@@ -1,6 +1,6 @@
 title: Writing
 ---
-
+你好
 {% youtube AIqBubK6ZLc %}
 
 To create a new post or a new page, you can run the following command:
